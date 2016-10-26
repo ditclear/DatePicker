@@ -1,0 +1,1930 @@
+[
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_11",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_11"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_sakhalin",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_sakhalin"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_st_helena",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_st_helena"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_bangui",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_bangui"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_south_pole",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_south_pole"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_aden",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_aden"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_cocos",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_cocos"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_azores",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_azores"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_magadan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_magadan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_amsterdam",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_amsterdam"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_tripoli",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_tripoli"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_uzhgorod",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_uzhgorod"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_baghdad",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_baghdad"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_taipei",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_taipei"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_eucla",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_eucla"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_12",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_12"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_brunei",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_brunei"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_tortola",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_tortola"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pst8pdt",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pst8pdt"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_midway",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_midway"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_enderbury",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_enderbury"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_1",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_1"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_bratislava",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_bratislava"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_lucia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_lucia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_chungking",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_chungking"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_matamoros",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_matamoros"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_yangon",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_yangon"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_lisbon",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_lisbon"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_fortaleza",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_fortaleza"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus12",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus12"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_aqtobe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_aqtobe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_chihuahua",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_chihuahua"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_13",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_13"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_bishkek",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_bishkek"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_martinique",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_martinique"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_hanoi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_hanoi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_thomas",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_thomas"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_davis",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_davis"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_2",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_2"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_lubumbashi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_lubumbashi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_port_au_prince",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_port_au_prince"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_santiago",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_santiago"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_budapest",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_budapest"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus11",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus11"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_belfast",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_belfast"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kuwait",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kuwait"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_vincent",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_vincent"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_grenada",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_grenada"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_tallinn",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_tallinn"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_10",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_10"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_pitcairn",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_pitcairn"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_kosrae",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_kosrae"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_bahia_banderas",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_bahia_banderas"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_port_of_spain",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_port_of_spain"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_windhoek",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_windhoek"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_damascus",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_damascus"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_3",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_3"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_la_paz",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_la_paz"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_barnaul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_barnaul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_jerusalem",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_jerusalem"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus10",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus10"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_mariehamn",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_mariehamn"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_kirov",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_kirov"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_guyana",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_guyana"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tel_aviv",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tel_aviv"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_asuncion",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_asuncion"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kabul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kabul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_riyadh",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_riyadh"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_guadeloupe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_guadeloupe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_creston",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_creston"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_monrovia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_monrovia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kolkata",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kolkata"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_el_aaiun",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_el_aaiun"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_chicago",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_chicago"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_vladivostok",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_vladivostok"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_tahiti",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_tahiti"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_abidjan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_abidjan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_cancun",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_cancun"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_marigot",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_marigot"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_curacao",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_curacao"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_guam",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_guam"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_nicosia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_nicosia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_kinshasa",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_kinshasa"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_juba",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_juba"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_malta",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_malta"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_johns",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_johns"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_fort_nelson",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_fort_nelson"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_omsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_omsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_ouagadougou",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_ouagadougou"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_dawson",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_dawson"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_winamac",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_winamac"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_faroe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_faroe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_mendoza",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_mendoza"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_guadalcanal",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_guadalcanal"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_tijuana",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_tijuana"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kuala_lumpur",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kuala_lumpur"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_samarkand",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_samarkand"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_anchorage",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_anchorage"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_reykjavik",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_reykjavik"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kuching",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kuching"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_timbuktu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_timbuktu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_asmara",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_asmara"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_sao_tome",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_sao_tome"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_guayaquil",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_guayaquil"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_kampala",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_kampala"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_novosibirsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_novosibirsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_est",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_est"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_cst6cdt",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_cst6cdt"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_bucharest",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_bucharest"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_volgograd",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_volgograd"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_paris",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_paris"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus9",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus9"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_mauritius",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_mauritius"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_dushanbe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_dushanbe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_riga",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_riga"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_mexico_city",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_mexico_city"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_anguilla",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_anguilla"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_8",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_8"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_petersburg",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_petersburg"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_norfolk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_norfolk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_noumea",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_noumea"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_jujuy",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_jujuy"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_amman",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_amman"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_maputo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_maputo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tashkent",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tashkent"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_sao_paulo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_sao_paulo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_scoresbysund",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_scoresbysund"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus8",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus8"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_jamaica",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_jamaica"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_denver",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_denver"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_atikokan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_atikokan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_manaus",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_manaus"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_est5edt",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_est5edt"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_freetown",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_freetown"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_nauru",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_nauru"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_comodrivadavia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_comodrivadavia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_9",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_9"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_istanbul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_istanbul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_accra",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_accra"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_luanda",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_luanda"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_marquesas",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_marquesas"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_ust_nera",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_ust_nera"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_krasnoyarsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_krasnoyarsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_casablanca",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_casablanca"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_hong_kong",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_hong_kong"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_adelaide",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_adelaide"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_berlin",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_berlin"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_gaza",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_gaza"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_karachi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_karachi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_easter",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_easter"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_moncton",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_moncton"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_lindeman",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_lindeman"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_chatham",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_chatham"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_eet",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_eet"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_istanbul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_istanbul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_tegucigalpa",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_tegucigalpa"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_recife",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_recife"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_seoul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_seoul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_pangnirtung",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_pangnirtung"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_helsinki",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_helsinki"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_regina",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_regina"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_anadyr",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_anadyr"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_dumontdurville",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_dumontdurville"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_bissau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_bissau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_algiers",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_algiers"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_niamey",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_niamey"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_keep.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_keep.xml"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_tongatapu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_tongatapu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_kerguelen",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_kerguelen"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_jayapura",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_jayapura"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_palmer",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_palmer"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_gaborone",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_gaborone"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_phnom_penh",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_phnom_penh"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_kaliningrad",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_kaliningrad"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_paramaribo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_paramaribo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_coral_harbour",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_coral_harbour"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_jakarta",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_jakarta"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_minsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_minsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_stanley",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_stanley"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_tiraspol",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_tiraspol"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_4",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_4"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_comoro",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_comoro"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_belem",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_belem"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_luxembourg",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_luxembourg"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_dar_es_salaam",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_dar_es_salaam"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_johnston",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_johnston"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_nairobi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_nairobi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_mst7mdt",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_mst7mdt"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_rothera",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_rothera"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_johannesburg",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_johannesburg"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_antananarivo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_antananarivo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_kigali",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_kigali"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tokyo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tokyo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_guernsey",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_guernsey"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_detroit",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_detroit"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kathmandu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kathmandu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_manila",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_manila"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_vatican",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_vatican"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_5",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_5"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_perth",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_perth"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_belgrade",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_belgrade"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_madeira",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_madeira"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_marengo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_marengo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_havana",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_havana"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_warsaw",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_warsaw"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_mst",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_mst"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_6",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_6"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_madrid",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_madrid"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_pohnpei",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_pohnpei"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_brussels",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_brussels"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_14",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_14"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_kentucky_louisville",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_kentucky_louisville"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_mayotte",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_mayotte"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_isle_of_man",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_isle_of_man"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_zaporozhye",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_zaporozhye"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_lord_howe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_lord_howe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_uct",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_uct"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmt_7",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmt_7"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_montserrat",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_montserrat"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_dhaka",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_dhaka"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_vancouver",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_vancouver"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_dili",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_dili"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_tunis",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_tunis"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_copenhagen",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_copenhagen"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_vevay",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_vevay"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_fiji",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_fiji"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_port_moresby",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_port_moresby"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_lima",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_lima"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_sofia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_sofia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_bougainville",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_bougainville"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_casey",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_casey"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_yellowknife",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_yellowknife"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_ndjamena",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_ndjamena"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_pontianak",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_pontianak"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus1",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus1"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_rankin_inlet",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_rankin_inlet"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_harare",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_harare"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_cairo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_cairo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_samara",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_samara"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_conakry",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_conakry"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_toronto",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_toronto"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_honolulu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_honolulu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_cayman",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_cayman"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_cet",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_cet"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_swift_current",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_swift_current"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_skopje",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_skopje"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_porto_novo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_porto_novo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_efate",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_efate"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_puerto_rico",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_puerto_rico"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_kiev",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_kiev"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_currie",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_currie"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tbilisi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tbilisi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_sitka",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_sitka"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_ceuta",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_ceuta"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_santo_domingo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_santo_domingo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_kralendijk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_kralendijk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kamchatka",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kamchatka"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_ho_chi_minh",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_ho_chi_minh"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus3",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus3"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_belize",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_belize"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_vincennes",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_vincennes"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_met",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_met"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_halifax",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_halifax"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_nassau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_nassau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_yakutat",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_yakutat"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_yerevan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_yerevan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_hebron",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_hebron"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_dakar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_dakar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_irkutsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_irkutsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_macquarie",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_macquarie"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_baku",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_baku"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_los_angeles",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_los_angeles"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_vaduz",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_vaduz"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_indianapolis",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_indianapolis"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_cayenne",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_cayenne"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_lome",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_lome"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_dominica",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_dominica"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_asmera",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_asmera"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_oral",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_oral"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_makassar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_makassar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_bujumbura",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_bujumbura"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus2",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus2"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_tucuman",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_tucuman"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_almaty",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_almaty"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_muscat",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_muscat"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_thimphu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_thimphu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_nipigon",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_nipigon"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_galapagos",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_galapagos"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_cambridge_bay",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_cambridge_bay"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_bamako",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_bamako"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_athens",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_athens"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_chita",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_chita"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_funafuti",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_funafuti"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_phoenix",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_phoenix"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_salta",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_salta"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_nouakchott",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_nouakchott"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus5",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus5"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_podgorica",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_podgorica"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_north_dakota_new_salem",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_north_dakota_new_salem"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_moscow",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_moscow"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_costa_rica",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_costa_rica"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_monaco",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_monaco"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_miquelon",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_miquelon"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_hobart",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_hobart"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_vientiane",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_vientiane"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_wet",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_wet"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_zoneinfomap",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_zoneinfomap"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_yakutsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_yakutsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_south_georgia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_south_georgia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_dawson_creek",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_dawson_creek"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_banjul",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_banjul"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_vienna",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_vienna"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_zurich",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_zurich"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_simferopol",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_simferopol"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus4",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus4"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_antigua",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_antigua"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_nicosia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_nicosia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_adak",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_adak"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_godthab",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_godthab"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_mogadishu",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_mogadishu"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_knox",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_knox"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_niue",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_niue"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_mbabane",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_mbabane"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_goose_bay",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_goose_bay"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_urumqi",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_urumqi"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_astrakhan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_astrakhan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_arctic_longyearbyen",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_arctic_longyearbyen"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_jersey",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_jersey"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_chisinau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_chisinau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_managua",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_managua"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_blanc_sablon",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_blanc_sablon"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_merida",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_merida"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus7",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus7"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_cape_verde",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_cape_verde"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_noronha",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_noronha"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_porto_velho",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_porto_velho"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_khartoum",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_khartoum"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_edmonton",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_edmonton"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_broken_hill",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_broken_hill"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_inuvik",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_inuvik"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_choibalsan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_choibalsan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_san_juan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_san_juan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_kashgar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_kashgar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_malabo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_malabo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_troll",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_troll"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tehran",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tehran"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_thule",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_thule"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_gmtplus6",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_gmtplus6"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_qyzylorda",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_qyzylorda"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_rio_gallegos",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_rio_gallegos"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_aqtau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_aqtau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_fakaofo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_fakaofo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_buenos_aires",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_buenos_aires"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_panama",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_panama"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_yekaterinburg",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_yekaterinburg"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_kitts",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_kitts"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_north_dakota_center",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_north_dakota_center"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_qatar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_qatar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_danmarkshavn",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_danmarkshavn"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_bermuda",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_bermuda"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_chagos",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_chagos"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_aruba",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_aruba"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_khandyga",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_khandyga"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_darwin",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_darwin"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_novokuznetsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_novokuznetsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_prague",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_prague"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_rainy_river",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_rainy_river"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_chuuk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_chuuk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_wake",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_wake"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_vilnius",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_vilnius"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_caracas",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_caracas"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_sydney",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_sydney"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_ulyanovsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_ulyanovsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_bangkok",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_bangkok"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_montreal",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_montreal"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_mahe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_mahe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_gambier",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_gambier"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_ulaanbaatar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_ulaanbaatar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_eirunepe",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_eirunepe"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_vostok",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_vostok"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_san_luis",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_san_luis"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_kiritimati",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_kiritimati"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_monterrey",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_monterrey"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_blantyre",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_blantyre"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_busingen",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_busingen"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_dublin",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_dublin"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_oslo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_oslo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_brazzaville",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_brazzaville"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_ushuaia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_ushuaia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_new_york",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_new_york"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_auckland",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_auckland"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_santarem",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_santarem"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_ensenada",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_ensenada"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_brisbane",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_brisbane"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_la_rioja",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_la_rioja"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_el_salvador",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_el_salvador"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_hovd",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_hovd"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_australia_melbourne",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_australia_melbourne"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_wallis",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_wallis"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_juneau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_juneau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_pago_pago",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_pago_pago"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_london",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_london"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_bahia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_bahia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_tarawa",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_tarawa"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_montevideo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_montevideo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_sarajevo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_sarajevo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_araguaina",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_araguaina"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_cuiaba",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_cuiaba"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_majuro",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_majuro"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_campo_grande",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_campo_grande"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_zagreb",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_zagreb"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_indiana_tell_city",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_indiana_tell_city"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_syowa",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_syowa"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_north_dakota_beulah",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_north_dakota_beulah"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_rosario",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_rosario"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_harbin",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_harbin"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_singapore",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_singapore"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_srednekolymsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_srednekolymsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_pyongyang",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_pyongyang"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_maceio",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_maceio"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_colombo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_colombo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_mawson",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_mawson"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_maldives",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_maldives"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_kentucky_monticello",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_kentucky_monticello"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_bahrain",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_bahrain"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_shanghai",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_shanghai"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_djibouti",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_djibouti"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_antarctica_mcmurdo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_antarctica_mcmurdo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_guatemala",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_guatemala"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_beirut",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_beirut"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_glace_bay",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_glace_bay"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_boise",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_boise"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_thunder_bay",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_thunder_bay"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_dubai",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_dubai"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_apia",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_apia"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_kwajalein",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_kwajalein"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_mazatlan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_mazatlan"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_palau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_palau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_menominee",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_menominee"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_tirane",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_tirane"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_lusaka",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_lusaka"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_san_marino",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_san_marino"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_macau",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_macau"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_etc_utc",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_etc_utc"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_reunion",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_reunion"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_resolute",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_resolute"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_ljubljana",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_ljubljana"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_whitehorse",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_whitehorse"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_catamarca",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_catamarca"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_stockholm",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_stockholm"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_libreville",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_libreville"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_addis_ababa",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_addis_ababa"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_st_barthelemy",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_st_barthelemy"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_jan_mayen",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_jan_mayen"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_rome",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_rome"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_lagos",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_lagos"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_rarotonga",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_rarotonga"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_ojinaga",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_ojinaga"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_iqaluit",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_iqaluit"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_rio_branco",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_rio_branco"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_indian_christmas",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_indian_christmas"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_barbados",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_barbados"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_winnipeg",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_winnipeg"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_hermosillo",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_hermosillo"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_ashgabat",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_ashgabat"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_maseru",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_maseru"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_argentina_cordoba",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_argentina_cordoba"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_nome",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_nome"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_tomsk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_tomsk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_gibraltar",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_gibraltar"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_asia_chongqing",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_asia_chongqing"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_atlantic_canary",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_atlantic_canary"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_grand_turk",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_grand_turk"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_hst",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_hst"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_europe_andorra",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_europe_andorra"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_metlakatla",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_metlakatla"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_africa_douala",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_africa_douala"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_boa_vista",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_boa_vista"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_bogota",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_bogota"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_america_lower_princes",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_america_lower_princes"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/release/raw/joda_pacific_saipan",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/raw/joda_pacific_saipan"
+    }
+]

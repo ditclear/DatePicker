@@ -1,0 +1,881 @@
+[
+    {
+        "outputFile": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 361,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 886,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endLine": 17,
+                        "endColumn": 14,
+                        "endOffset": 1146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1151,
+                        "endLine": 21,
+                        "endColumn": 14,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1402,
+                        "endLine": 25,
+                        "endColumn": 14,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endLine": 29,
+                        "endColumn": 14,
+                        "endOffset": 1909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1914,
+                        "endLine": 33,
+                        "endColumn": 14,
+                        "endOffset": 2165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2170,
+                        "endLine": 37,
+                        "endColumn": 14,
+                        "endOffset": 2410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2661
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2415,
+                        "endLine": 41,
+                        "endColumn": 14,
+                        "endOffset": 2661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2666,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2914
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2666,
+                        "endLine": 45,
+                        "endColumn": 14,
+                        "endOffset": 2914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2919,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2919,
+                        "endLine": 49,
+                        "endColumn": 14,
+                        "endOffset": 3163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3421
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3168,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3426,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3686
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3426,
+                        "endLine": 57,
+                        "endColumn": 14,
+                        "endOffset": 3686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3691,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3953
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3691,
+                        "endLine": 61,
+                        "endColumn": 14,
+                        "endOffset": 3953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3958,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3958,
+                        "endLine": 65,
+                        "endColumn": 14,
+                        "endOffset": 4196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4446
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4201,
+                        "endLine": 69,
+                        "endColumn": 14,
+                        "endOffset": 4446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4451,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4702
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4451,
+                        "endLine": 73,
+                        "endColumn": 14,
+                        "endOffset": 4702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4707,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4960
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4707,
+                        "endLine": 77,
+                        "endColumn": 14,
+                        "endOffset": 4960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4965,
+                    "endColumn": 119,
+                    "endOffset": 5080
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5085,
+                    "endColumn": 107,
+                    "endOffset": 5188
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 107,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5193,
+                    "endColumn": 122,
+                    "endOffset": 5311
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 122,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5316,
+                    "endColumn": 105,
+                    "endOffset": 5417
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 105,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5422,
+                    "endColumn": 106,
+                    "endOffset": 5524
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 106,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5529,
+                    "endColumn": 88,
+                    "endOffset": 5613
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 88,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5618,
+                    "endColumn": 100,
+                    "endOffset": 5714
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 100,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5719,
+                    "endColumn": 123,
+                    "endOffset": 5838
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 123,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5843,
+                    "endColumn": 83,
+                    "endOffset": 5922
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 83,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5927,
+                    "endColumn": 80,
+                    "endOffset": 6003
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 80,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6008,
+                    "endColumn": 86,
+                    "endOffset": 6090
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 86,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6095,
+                    "endColumn": 106,
+                    "endOffset": 6197
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 106,
+                        "endOffset": 1287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6202,
+                    "endColumn": 111,
+                    "endOffset": 6309
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1292,
+                        "endColumn": 111,
+                        "endOffset": 1399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6314,
+                    "endColumn": 101,
+                    "endOffset": 6411
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1404,
+                        "endColumn": 101,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6416,
+                    "endColumn": 107,
+                    "endOffset": 6519
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 107,
+                        "endOffset": 1609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6524,
+                    "endColumn": 106,
+                    "endOffset": 6626
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1614,
+                        "endColumn": 106,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6631,
+                    "endColumn": 106,
+                    "endOffset": 6733
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1721,
+                        "endColumn": 106,
+                        "endOffset": 1823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6738,
+                    "endColumn": 121,
+                    "endOffset": 6855
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1828,
+                        "endColumn": 121,
+                        "endOffset": 1945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6860,
+                    "endColumn": 98,
+                    "endOffset": 6954
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1950,
+                        "endColumn": 98,
+                        "endOffset": 2044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6959,
+                    "endColumn": 65,
+                    "endOffset": 7020
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4965,
+                        "endColumn": 65,
+                        "endOffset": 5026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7025,
+                    "endColumn": 126,
+                    "endOffset": 7147
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5031,
+                        "endColumn": 126,
+                        "endOffset": 5153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7152,
+                    "endColumn": 127,
+                    "endOffset": 7275
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5158,
+                        "endColumn": 127,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7280,
+                    "endColumn": 150,
+                    "endOffset": 7426
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.4.3/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5286,
+                        "endColumn": 150,
+                        "endOffset": 5432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7431,
+                    "endColumn": 84,
+                    "endOffset": 7511
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2049,
+                        "endColumn": 84,
+                        "endOffset": 2129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7516,
+                    "endColumn": 100,
+                    "endOffset": 7612
+                },
+                "from": {
+                    "file": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2134,
+                        "endColumn": 100,
+                        "endOffset": 2230
+                    }
+                }
+            }
+        ]
+    }
+]

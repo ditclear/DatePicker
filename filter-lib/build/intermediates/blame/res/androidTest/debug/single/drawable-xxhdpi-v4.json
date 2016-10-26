@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/filter-lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_filter_arrow_up.png",
+        "source": "/Users/vienan/android_projects/DatePicker/filter-lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/common_filter_arrow_up.png"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/filter-lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/common_filter_arrow_down.png",
+        "source": "/Users/vienan/android_projects/DatePicker/filter-lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/common_filter_arrow_down.png"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal_day">#ff999999</color>
+    <color name="selected_day_background">#E75F49</color>
+    <color name="selected_day_text">#fff2f2f2</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="DayPickerView"><attr format="color" name="colorCurrentDay"/><attr format="color" name="colorSelectedDayBackground"/><attr format="color" name="colorSelectedDayText"/><attr format="color" name="colorPreviousDay"/><attr format="color" name="colorNormalDay"/><attr format="color" name="colorMonthName"/><attr format="color" name="colorDayName"/><attr format="dimension" name="textSizeDay"/><attr format="dimension" name="textSizeMonth"/><attr format="dimension" name="textSizeDayName"/><attr format="dimension" name="headerMonthHeight"/><attr format="dimension" name="selectedDayRadius"/><attr format="dimension" name="calendarHeight"/><attr format="boolean" name="enablePreviousDay"/><attr format="boolean" name="currentDaySelected"/><attr format="boolean" name="drawRoundRect"/><attr format="boolean" name="singleSelectionOnly"/><attr format="enum" name="firstMonth">
+            <enum name="january" value="0"/>
+            <enum name="february" value="1"/>
+            <enum name="march" value="2"/>
+            <enum name="april" value="3"/>
+            <enum name="may" value="4"/>
+            <enum name="june" value="5"/>
+            <enum name="july" value="6"/>
+            <enum name="august" value="7"/>
+            <enum name="september" value="8"/>
+            <enum name="october" value="9"/>
+            <enum name="november" value="10"/>
+            <enum name="december" value="11"/>
+        </attr><attr format="enum" name="lastMonth">
+            <enum name="january" value="0"/>
+            <enum name="february" value="1"/>
+            <enum name="march" value="2"/>
+            <enum name="april" value="3"/>
+            <enum name="may" value="4"/>
+            <enum name="june" value="5"/>
+            <enum name="july" value="6"/>
+            <enum name="august" value="7"/>
+            <enum name="september" value="8"/>
+            <enum name="october" value="9"/>
+            <enum name="november" value="10"/>
+            <enum name="december" value="11"/>
+        </attr></declare-styleable>
+    <dimen name="calendar_height">270dip</dimen>
+    <dimen name="header_month_height">50dip</dimen>
+    <dimen name="selected_day_radius">16dip</dimen>
+    <dimen name="text_size_day">16sp</dimen>
+    <dimen name="text_size_day_name">10sp</dimen>
+    <dimen name="text_size_month">16sp</dimen>
+    <string name="app_name">datepicker</string>
+    <string name="filter_week">第%1$d周(%2$s - %3$s)</string>
+    <string name="sans_serif" translatable="false">sans-serif</string>
+</resources>
