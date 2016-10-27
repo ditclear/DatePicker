@@ -1,6 +1,7 @@
 package com.ditclear.datepicker.dialog;
 
 import android.os.Bundle;
+import android.support.annotation.IntRange;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.util.Log;
@@ -21,7 +22,7 @@ import java.util.GregorianCalendar;
 /**
  * 按日筛选
  */
-public class DateFragment extends Fragment  implements DatePickerController {
+public class DateFragment extends Fragment  implements DatePickerController{
 
     private DayPickerView pickerView;
 
@@ -31,16 +32,18 @@ public class DateFragment extends Fragment  implements DatePickerController {
 
     private boolean showDefault=true;
 
+    private int offset;
+
     public DateFragment setFilterDoneListener(FilterDoneListener doneListener) {
         mDoneListener = doneListener;
         return this;
     }
 
 
-    public static DateFragment newInstance() {
-        
+    public static DateFragment newInstance(@IntRange(from = 0) int offset) {
+
         Bundle args = new Bundle();
-        
+        args.putInt("offset",offset);
         DateFragment fragment = new DateFragment();
         fragment.setArguments(args);
         return fragment;
@@ -49,6 +52,9 @@ public class DateFragment extends Fragment  implements DatePickerController {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if (getArguments()!=null){
+            offset=getArguments().getInt("offset",2);
+        }
     }
 
     @Override
@@ -83,12 +89,12 @@ public class DateFragment extends Fragment  implements DatePickerController {
 
     @Override
     public int getMinYear() {
-        return DateTime.now().getYear()-1;
+        return DateTime.now().getYear()-offset+1;
     }
 
     @Override
     public int getCurrentYear() {
-        return DateTime.now().getYear();
+        return DateTime.now().getYear()-offset+1;
     }
 
     /**

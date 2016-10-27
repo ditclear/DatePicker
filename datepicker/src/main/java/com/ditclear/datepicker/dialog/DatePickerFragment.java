@@ -19,18 +19,9 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 
 import com.ditclear.datepicker.R;
-import com.ditclear.datepicker.model.FilterType;
-
-import org.joda.time.DateTime;
 
 import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.List;
-
-import rx.Observable;
-import rx.functions.Action1;
-import rx.functions.Func1;
 
 /**
  * 通用日期选择控件
@@ -44,18 +35,20 @@ public class DatePickerFragment extends DialogFragment implements FilterDoneList
     private static final String ARG_Y = "y";
     private static final String ARG_W = "width";
     private static final String ARG_H = "height";
+    private static final String ARG_OFFSET = "offset";
 
     private List<Fragment> mFragments = new ArrayList<>();
     private float showX, showY;
     private int width = -1;
     private int height = -1;
+    private int offset;
 
     private SimpleFragmentPagerAdapter pagerAdapter;
     private OnDateFilterListener mDateFilterListener;
     private TabLayout mTabLayout;
     private ViewPager mViewPager;
     private View rootView;
-    private DateTime dt;
+
     private DateFragment mDateFragment;
     private FilterFragment mWeekFilterFragment;
     private FilterFragment mMonthFilterFragment;
@@ -74,21 +67,22 @@ public class DatePickerFragment extends DialogFragment implements FilterDoneList
      * @param height dialog高度  默认屏幕高度的4/5
      * @return
      */
-    public static DatePickerFragment newInstance(float x, float y, int width, int height) {
+    public static DatePickerFragment newInstance(int yearOffset,float x, float y, int width, int height) {
         DatePickerFragment fragment = new DatePickerFragment();
         Bundle args = new Bundle();
         args.putFloat(ARG_X, x);
         args.putFloat(ARG_Y, y);
         args.putInt(ARG_W, width);
         args.putInt(ARG_H, height);
+        args.putInt(ARG_OFFSET, yearOffset);
         fragment.setArguments(args);
         return fragment;
     }
 
-    public static DatePickerFragment newInstance() {
+    public static DatePickerFragment newInstance(int yearOffset) {
 
         Bundle args = new Bundle();
-
+        args.putInt(ARG_OFFSET, yearOffset);
         DatePickerFragment fragment = new DatePickerFragment();
         fragment.setArguments(args);
         return fragment;
@@ -102,21 +96,21 @@ public class DatePickerFragment extends DialogFragment implements FilterDoneList
             showY = getArguments().getFloat(ARG_Y);
             width = getArguments().getInt(ARG_W);
             height = getArguments().getInt(ARG_H);
+            offset = getArguments().getInt(ARG_OFFSET);
         }
-        dt=new DateTime();
         //去掉顶部title
         setStyle(DialogFragment.STYLE_NO_TITLE, 0);
         if (mDateFragment==null){
-            mDateFragment=DateFragment.newInstance().setFilterDoneListener(this);
+            mDateFragment=DateFragment.newInstance(offset).setFilterDoneListener(this);
         }
         if (mWeekFilterFragment==null){
-            mWeekFilterFragment=FilterFragment.newInstance(getWeek()).setFilterDoneListener(this);
+            mWeekFilterFragment=FilterFragment.newInstance(true,offset).setFilterDoneListener(this);
         }
         if (mMonthFilterFragment==null){
-            mMonthFilterFragment=FilterFragment.newInstance(getMonth()).setFilterDoneListener(this);
+            mMonthFilterFragment=FilterFragment.newInstance(false,offset).setFilterDoneListener(this);
         }
         if (mYearFilterFragment==null){
-            mYearFilterFragment=YearFilterFragment.newInstance(getYear()).setFilterDoneListener(this);
+            mYearFilterFragment=YearFilterFragment.newInstance(offset).setFilterDoneListener(this);
         }
         mFragments.add(mDateFragment);
         mFragments.add(mWeekFilterFragment);
@@ -182,90 +176,6 @@ public class DatePickerFragment extends DialogFragment implements FilterDoneList
         mTabLayout.setupWithViewPager(mViewPager);
     }
 
-    /**
-     * 按周分组
-     *
-     * @return 按周分组的集合
-     */
-    private ArrayList<FilterType> getWeek() {
-        final ArrayList<FilterType> list = new ArrayList<>();
-        int year = dt.getYear();
-        Observable.just(year, year - 1).map(new Func1<Integer, FilterType>() {
-            @Override
-            public FilterType call(Integer year) {
-
-                FilterType filterType = new FilterType();
-                filterType.desc = year + "年";
-                DateTime dt = new DateTime().withYear(year);
-                GregorianCalendar calendar = dt.toGregorianCalendar();
-
-                int weeks = year == DateTime.now().getYear() ? DateTime.now().getWeekOfWeekyear()
-                        : calendar.getMaximum(Calendar.WEEK_OF_YEAR);
-                Log.d(TAG, "call: " + weeks);
-
-                filterType.child = new ArrayList<String>();
-                for (int i = weeks; i > 0; i--) {
-                    dt = dt.withWeekOfWeekyear(i).withDayOfWeek(1);
-                    String week = String.format(getResources().getString(R.string.filter_week), i,
-                            dt.toString("MM月dd日"), dt.plusDays(6).toString("MM月dd日"));
-                    if (year == DateTime.now().getYear() && i == weeks) {
-                        week += " 本周";
-                    }
-                    filterType.child.add(week);
-                }
-                return filterType;
-            }
-        }).toList().subscribe(new Action1<List<FilterType>>() {
-            @Override
-            public void call(List<FilterType> filterTypes) {
-                list.addAll(filterTypes);
-            }
-        });
-        return list;
-    }
-
-    /**
-     * 按月分组
-     *
-     * @return 按月分组后的集合
-     */
-    private ArrayList<FilterType> getMonth() {
-        final ArrayList<FilterType> list = new ArrayList<>();
-        int year = dt.getYear();
-        FilterType f = new FilterType();
-        f.desc = year + "年";
-        f.child = new ArrayList<>();
-        for (int i = dt.getMonthOfYear(); i > 0; i--) {
-            if (i == dt.getMonthOfYear()) {
-                f.child.add(i + "月 本月");
-            } else {
-                f.child.add(i + "月");
-            }
-        }
-        list.add(f);
-        FilterType f1 = new FilterType();
-        f1.desc = (year - 1) + "年";
-        f1.child = new ArrayList<>();
-        for (int i = 12; i > 0; i--) {
-            f1.child.add(i + "月");
-        }
-        list.add(f1);
-        return list;
-    }
-
-    /**
-     * 按年分组
-     *
-     * @return 按年分组后的集合
-     */
-    private ArrayList<String> getYear() {
-
-        ArrayList<String> list = new ArrayList<>();
-        int year = dt.getYear();
-        list.add(year + "年");
-        list.add((year - 1) + "年");
-        return list;
-    }
 
     @Override
     public void onDetach() {

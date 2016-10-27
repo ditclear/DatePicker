@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity implements DatePickerFragmen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         dateTv= (TextView) findViewById(R.id.tv_date);
-        mPickerFragment=DatePickerFragment.newInstance().setDateFilterListener(this);
+        mPickerFragment=DatePickerFragment.newInstance(4).setDateFilterListener(this);
     }
 
     public void onDatePick(View v){

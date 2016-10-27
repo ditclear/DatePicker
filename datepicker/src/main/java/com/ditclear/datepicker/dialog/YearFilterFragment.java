@@ -14,6 +14,8 @@ import com.baiiu.filter.typeview.SingleListView;
 import com.baiiu.filter.util.UIUtil;
 import com.baiiu.filter.view.FilterCheckedTextView;
 
+import org.joda.time.DateTime;
+
 import java.util.ArrayList;
 
 /**
@@ -31,6 +33,7 @@ public class YearFilterFragment extends Fragment {
     private FilterDoneListener mDoneListener;
 
     private int selectedPos=-1;
+    private int offset=2;
     private SingleListView<String> mSingleListView;
 
     public YearFilterFragment setFilterDoneListener(FilterDoneListener doneListener) {
@@ -38,11 +41,11 @@ public class YearFilterFragment extends Fragment {
         return  this;
     }
 
-    public static YearFilterFragment newInstance(ArrayList<String  > list) {
-        
+    public static YearFilterFragment newInstance(int offset) {
+
         Bundle args = new Bundle();
-        args.putStringArrayList("list",list);
         YearFilterFragment fragment = new YearFilterFragment();
+        args.putInt("offset",offset);
         fragment.setArguments(args);
         return fragment;
     }
@@ -56,10 +59,32 @@ public class YearFilterFragment extends Fragment {
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
-            super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState);
         mContext=getActivity();
-        list=getArguments().getStringArrayList("list");
+        if (getArguments()!=null) {
+            offset = getArguments().getInt("offset",2);
+        }
+        if (offset<0){
+            throw new IllegalStateException(
+                    "offset can not less than zero");
+        }
+        list=getYear();
+    }
 
+    /**
+     * 按年分组
+     *
+     * @return 按年分组后的集合
+     */
+    private ArrayList<String> getYear() {
+        ArrayList<String> list = new ArrayList<>();
+        int year = DateTime.now().getYear();
+        while (offset>0){
+            list.add(year + "年");
+            year--;
+            offset--;
+        }
+        return list;
     }
 
     private View createSingleListView() {
@@ -86,7 +111,6 @@ public class YearFilterFragment extends Fragment {
                 });
         //初始化选中.
         mSingleListView.setList(list, selectedPos);
-
         return mSingleListView;
     }
 

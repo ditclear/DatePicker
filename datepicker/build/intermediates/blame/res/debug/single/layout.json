@@ -24,12 +24,24 @@
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/fragment_date.xml",
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/src/main/res/layout/fragment_date.xml"
     },
     {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_leak_row.xml"
     },
     {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -68,6 +80,10 @@
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_display_leak.xml"
+    },
+    {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
     },
@@ -82,6 +98,10 @@
     {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_heap_dump_toast.xml"
     },
     {
         "merged": "/Users/vienan/android_projects/DatePicker/datepicker/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
