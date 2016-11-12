@@ -26,6 +26,7 @@ package com.ditclear.datepicker.calendarlistview;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.LinearSnapHelper;
 import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 
@@ -89,6 +90,8 @@ public class DayPickerView extends RecyclerView {
                 mPreviousScrollState = mCurrentScrollState;
             }
         };
+
+        new LinearSnapHelper().attachToRecyclerView(this);
     }
 
 

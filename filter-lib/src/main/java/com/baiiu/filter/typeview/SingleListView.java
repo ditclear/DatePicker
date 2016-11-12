@@ -42,7 +42,6 @@ public class SingleListView<DATA> extends ListView implements AdapterView.OnItem
         setDivider(null);
         setDividerHeight(0);
         setSelector(new ColorDrawable(Color.TRANSPARENT));
-
         setOnItemClickListener(this);
     }
 

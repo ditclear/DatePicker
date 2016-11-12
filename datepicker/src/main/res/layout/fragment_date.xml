@@ -7,4 +7,5 @@
     android:layout_height="match_parent"
     app:firstMonth="january"
     app:singleSelectionOnly="true"
+    app:reverse="true"
     />
